@@ -1,0 +1,1 @@
+Se realiza una aplicacion que se conecta a una API para la lectura y carga de informacion sobre el estado del clima.
